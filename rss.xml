@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Online kursevi</title>
+  <link>https://kursevi.html</link>
+  <description>Online grupni časovi, registrujte se. Učimo zajedno.</description>
+  <item>
+    <title>Naši učenici</title>
+    <link>https://.galerija.html</link>
+    <description>Pogledajte kako je kod nas.Očekujemo Vas.</description>
+  </item>
+</channel>
+</rss>
